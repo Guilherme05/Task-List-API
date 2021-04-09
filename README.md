@@ -4,4 +4,8 @@ API do desafil Supreme
 
 O Schema para criação do BD esta no arquivo SQL.
 
-Foram utilizando o framework Spring Boot com JPA para persistencia no BD.
+Foi utilizando o framework Spring Boot com JPA para persistencia no BD.
+
+A construção da API seguiu as melhores praticas de desenvolvimento.
+
+Como era um projeto pequeno não foi usado o Hibernate para ORM e sim JPA nativo.
